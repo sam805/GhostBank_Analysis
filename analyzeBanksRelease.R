@@ -1,7 +1,6 @@
-# Tyler Moore
+# Sara Mohammadi
 # R code for analyzing closed bank domains
-# Paper http://lyle.smu.edu/~tylerm/fc14ghosts.pdf
-# Last modified 2014-05-20
+
 
 
 #data for manual classification of bank websites based on screenshots
